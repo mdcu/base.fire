@@ -1,3 +1,7 @@
-# This is the Title
+---
+layout: default
+---
 
-## Right ?
+{% include about-me.md %}
+{% include about-mdcu.md %}
+{% include footer.md %}
